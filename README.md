@@ -4,9 +4,6 @@
 
 - `npm install` — установить зависимости
 - `npm start` — запуск dev-сервера [http://localhost:3000](http://localhost:3000)
-- `npm test` — запуск тестов
-- `npm run build` — сборка production-версии
-- `npm run eject` — вынести конфигурацию (необратимо)
 
 ## Описание проекта
 
